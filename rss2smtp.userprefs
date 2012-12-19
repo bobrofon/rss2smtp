@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rss2smtp/RssSmtpSection.cs">
+    <Files>
+      <File FileName="rss2smtp/Main.cs" Line="15" Column="1" />
+      <File FileName="rss2smtp/Rss2Smtp.cs" Line="19" Column="32" />
+      <File FileName="rss2smtp/RssSmtpSection.cs" Line="21" Column="21" />
+      <File FileName="rss2smtp/app.config" Line="7" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="rss2smtp" expanded="True">
+            <Node name="RssSmtpSection.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<From>kill@all.humans</From>
+<To>bobrofon1@ya.ru</To>
+<Subject>rss</Subject>
+<Host>smtp.gmail.com</Host>
+<Port>587</Port>
+<User>bobrofon</User>
+<Pass>ixili228500</Pass>
+<EnableSsl>true</EnableSsl>
+<Rss>https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=AnotherOlolo</Rss>
